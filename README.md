@@ -55,6 +55,10 @@
 <p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yosse95ai&theme=dracula" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yosse95ai&theme=dracula" />
+</p>
+
+### Activity
+<p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yosse95ai&theme=dracula" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yosse95ai&theme=dracula" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yosse95ai&theme=dracula&utcOffset=8" />
