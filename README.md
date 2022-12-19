@@ -20,7 +20,7 @@
 
 ### Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=yosse95ai&theme=discord&rank=-C,-?">
+  <img src="https://github-profile-trophy.vercel.app/?username=yosse95ai&theme=discord&rank=-C&no-frame=true">
 </P>
 
 
