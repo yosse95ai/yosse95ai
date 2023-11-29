@@ -1,21 +1,21 @@
 ### Hi! I'm yosse95ai ✨
 <!-- ステータス -->
 <p align="left">
-  <a href="http://qiita.com/RoaaaA">
+  <!-- <a href="http://qiita.com/RoaaaA">
     <img height="20p" src="https://qiita-badge.apiapi.app/s/RoaaaA/posts.svg"/>
   </a>
   <a href="http://qiita.com/RoaaaA">
     <img height="20" src="https://qiita-badge.apiapi.app/s/RoaaaA/contributions.svg" />
-  </a>
+</a>
   <a href="http://qiita.com/RoaaaA">
     <img height="20" src="https://qiita-badge.apiapi.app/s/RoaaaA/followers.svg"/>
-  </a>
+  </a>-->
   <a href="https://github.com/yosse95ai">
     <img height="20" src="https://img.shields.io/github/followers/yosse95ai?label=follow&logo=github&style=flat" />
-  </a>  
-  <a href="http://twitter.com/yosse95ai">
-    <img height="20" src="https://img.shields.io/twitter/follow/yosse95ai?label=Twitter&logo=twitter&style=flat" />
   </a>
+  <!-- <a href="http://twitter.com/yosse95ai">
+    <img height="20" src="https://img.shields.io/twitter/follow/yosse95ai?label=Twitter&logo=twitter&style=flat" />
+  </a>-->
 </p>
 
 ### Trophies
